@@ -3,17 +3,27 @@ import './App.css'
 import axios from 'axios'
 
 function App() {
-  const [data, setData] = useState('SP.POP.TOTL')
+  interface Data {
+    [index: number]: string | number
+  }
+
+  const [data, setData] = useState<Data[]>([])
+
+  const [dataField, setDataField] = useState('SP.POP.TOTL')
 
   useEffect(() => {
     axios
       .get(
-        `https://data.nasdaq.com/api/v3/datatables/WB/DATA?series_id=${data}&country_code=CUB&api_key=${process.env.REACT_APP_API_KEY}`
+        `https://data.nasdaq.com/api/v3/datatables/WB/DATA?series_id=${dataField}&country_code=CUB&api_key=${process.env.REACT_APP_API_KEY}`
       )
-      .then((res) => console.log(res.data))
+      .then((res) => addData(res.data))
   }, [])
 
-  return <div className='App'>YO</div>
+  const addData = (fields: Data[]) => {
+    setData(fields)
+  }
+
+  return <div className='App'></div>
 }
 
 export default App
