@@ -1,0 +1,280 @@
+{
+  "public_identifier": "mohammad-pasha-khoshkebari",
+  "profile_pic_url": "https://media.licdn.com/dms/image/C5603AQGZ6_3D0hEDJA/profile-displayphoto-shrink_400_400/0/1656517015237?e=1686182400&v=beta&t=Dnnv2imfKgU7p9u4uCajwaSHAbV0nMfX9kn3tpqq868",
+  "first_name": "Mohammad Pasha",
+  "last_name": "Khoshkebari",
+  "full_name": "Mohammad Pasha Khoshkebari",
+  "summary": "My name is Pasha and I am an enthusiastic and driven full-stack web developer. In addition to my technical skills, I am a leader, fitness enthusiast, and avid promoter of social justice. I believe that with hard work and determination, anything is possible. That's why I love learning and solving challenges – it's the perfect way to grow and make a difference. \n\nSpeaking of which, here are a couple I have been recently working on:\n\n* There is a shortage of childcare spaces in Manitoba and a lack of transparency around the process of getting a child into daycare. To address this issue, I partnered with Oak Lawn Child Care to create a website with a multi-page waitlist system. When parents sign up, they can add their children to the waitlist and view the number of children already on the list, their child's position on the list, and provide information about their child to speed up the process. Currently, the waitlist has 110 registered parents and 89 children. The waitlist has been successful in streamlining the childcare process and improving transparency.\n\nSite: https://oaklawnchildcare.ca/\n\n* I created an app to assist a local theatre club in managing member information and event planning. The app stores data on attendance hours, dates, and general information for each member, and allows event planners to easily add members to events and sync all relevant data. This app replaced the club's previous system, a 70-page word document, and has simplified and organized the process of tracking and organizing member information.\nSite: https://ftj.netlify.app/\n\n* Though the above project served its purpose well, I decided it was time to create a more capable, customizable, and advanced project. Its name is 'Manage' and it is the project I am actively working on right now. \nGitHub: https://github.com/HOPE028/manage\n\nTo see more of my work, you can visit my website at https://www.pasha-khoshkebari.com/\n\nI am always excited to connect with new people! If you'd like to get in touch, please don't hesitate to reach out to me at pasha.khoshkeba@gmail.com. I look forward to hearing from you!",
+  "country": "Canada",
+  "country_full_name": "Canada",
+  "city": "Winnipeg, Manitoba",
+  "state": "Winnipeg, Manitoba",
+  "languages": [
+    "English ",
+    "French",
+    "Persian",
+    "Spanish"
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Computer Science",
+      "school": "Institut collégial Vincent Massey Collegiate",
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": null,
+        "month": 8,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "url": "https://www.codecademy.com/profiles/MohammadPashaKhoshkebari/certificates/5cab64c55f1de8039db366ef",
+      "name": "Machine Learning With Python",
+      "license_number": null,
+      "display_source": "codecademy.com",
+      "authority": "Codecademy"
+    },
+    {
+      "starts_at": {
+        "day": null,
+        "month": 2,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "url": "https://www.hackerrank.com/certificates/023c9ce7863a",
+      "name": "Problem Solving",
+      "license_number": "023C9CE7863A",
+      "display_source": "hackerrank.com",
+      "authority": "HackerRank"
+    }
+  ],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": null,
+        "month": 3,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": null,
+        "month": 3,
+        "year": 2023
+      },
+      "title": "HOPE",
+      "description": "Introducing HOPE, a suite of free and open-source tools designed to help students, educators, and lifelong learners improve their learning experience. Our mission is to identify common challenges faced by learners and provide practical solutions through software that is accessible and free for everyone.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": null,
+        "month": 11,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": null,
+        "month": 11,
+        "year": 2022
+      },
+      "title": "Manage",
+      "description": "Introducing Manage, a revolutionary web app that streamlines team hour tracking and communication. With Manage, teams can easily track and record hours spent working, volunteering, or practicing, as well as connect with other members through comprehensive social media features. In addition, Manage offers unparalleled control over member data security and access, ensuring that sensitive information remains protected. With its advanced capabilities, Manage is the ultimate tool for optimizing team efficiency and productivity.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": null,
+        "month": 9,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": null,
+        "month": 5,
+        "year": 2022
+      },
+      "title": "Enhanced Mobility Mechanical Assistance System: Reducing Overexertion Injuries in The Manual Workforce",
+      "description": "Overexertion is one of the biggest causes of injury in manual labour. It affects over 250,000 workers every year in the United States alone. However, using modern technology, we can aim to eliminate this issue. To solve the problem, we developed and created an active lower-body exoskeleton powered by pneumatic cylinders and controlled by a raspberry pi microcomputer with custom software. The goal of this device is to enhance mobility and provide mechanical assistance. The exoskeleton does so by manipulating the distance between the hip and the ankle which is electronically triggered from user inputs to our microcomputer, activating the pneumatic cylinders at specific timings through the exoskeleton’s software. From testing, our mechanical assistance system provides 980N of additional lifting capabilities, all while under a 0.54s response time. Through the use of this tool, humans can reduce strain on their bodies, significantly reducing injury.",
+      "url": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_courses": [],
+  "volunteer_work": [],
+  "accomplishment_test_scores": [],
+  "experiences": [
+    {
+      "starts_at": {
+        "day": null,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "company": null,
+      "company_linkedin_profile_url": null,
+      "title": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "connections": null,
+  "background_cover_image_url": null,
+  "occupation": null,
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "people_also_viewed": [],
+  "articles": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_organisations": [],
+  "headline": "Mohammad Pasha"
+}
+
+
+
+
+
+{
+  "public_identifier": "williamhgates",
+  "profile_pic_url": "https://media.licdn.com/dms/image/C5603AQERTD_EeJiGlA/profile-displayphoto-shrink_400_400/0/1661816468423?e=1686182400&v=beta&t=3f6aUjKqmwzby08GjEwgXX54WhpEUtB5AyHD5gOqVoM",
+  "first_name": "Bill",
+  "last_name": "Gates",
+  "full_name": "Bill Gates",
+  "summary": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+  "country": "United States",
+  "country_full_name": "United States",
+  "city": "Seattle, Washington",
+  "state": "Seattle, Washington",
+  "languages": [],
+  "education": [
+    {
+      "starts_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Harvard University",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_400_400/0/1519855919126?e=1689206400&v=beta&t=PBBckEY9zQhwTYme5fzeVixLYr8xAEMUdjf_LZVxue4"
+    },
+    {
+      "starts_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Lakeside School",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQENlfOPKBEk3Q/company-logo_400_400/0/1519856497259?e=1689206400&v=beta&t=rknQkb-7MgoWEh1ZkvYkv3f2KkT-e68q667g936QK1I"
+    }
+  ],
+  "accomplishment_patents": [],
+  "certifications": [],
+  "accomplishment_projects": [],
+  "accomplishment_publications": [],
+  "accomplishment_courses": [],
+  "volunteer_work": [],
+  "accomplishment_test_scores": [],
+  "experiences": [
+    {
+      "starts_at": {
+        "day": null,
+        "month": null,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "company": "Bill & Melinda Gates Foundation",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bill-&-melinda-gates-foundation/",
+      "title": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE7Na_mKQhIJg/company-logo_400_400/0/1633731810932?e=1689206400&v=beta&t=uDiovuE_uXSDBMcxsMK8G34-1DSBh4uNuORVUvBLXXQ"
+    },
+    {
+      "starts_at": {
+        "day": null,
+        "month": null,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "company": "Breakthrough Energy ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/breakthrough-energy/",
+      "title": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGwD9vNu044FA/company-logo_400_400/0/1601560874941?e=1689206400&v=beta&t=JEuIX7bTZX3gUQknI8mDrkXmf2c1Lm6gNA08DGQYXy0"
+    },
+    {
+      "starts_at": {
+        "day": null,
+        "month": null,
+        "year": 1975
+      },
+      "ends_at": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "company": "Microsoft",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft/",
+      "title": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1689206400&v=beta&t=rhLzaCDBuHlMCKYy2MjDLX2gcVvAFG_BPeAXP37OVSI"
+    }
+  ],
+  "connections": null,
+  "background_cover_image_url": null,
+  "occupation": null,
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "people_also_viewed": [],
+  "articles": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_organisations": [],
+  "headline": "Co-chair at Bill & Melinda Gates Foundation"
+}
